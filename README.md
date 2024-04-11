@@ -10,7 +10,7 @@
 │   ├── ZTWeb: Cross site scripting detection based on zero trust.pdf
 │   └── [ISLAB Meeting]ZTWeb: Cross site scripting detection based on zero trust.pdf
 │
-└── (2023.12.18) Securing heterogeneous embedded devices against XSS attack in intelligent IoT system 
+└── (2024.02.29) Securing heterogeneous embedded devices against XSS attack in intelligent IoT system 
     ├── README.md
     ├── Securing heterogeneous embedded devices against XSS attack in intelligent IoT system.pdf
     └── [ISLAB Meeting]Securing heterogeneous embedded devices against XSS attack in intelligent IoT system.pdf
