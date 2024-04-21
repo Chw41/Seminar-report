@@ -15,9 +15,9 @@
 │   ├──Securing heterogeneous embedded devices against XSS attack in intelligent IoT system.pdf
 │   └── [ISLAB Meeting] Securing heterogeneous embedded devices against XSS attack in intelligent IoT system.pdf
 │
-└── (2024.05.--) Discovering reflected cross-site scripting vulnerabilities using a multiobjective reinforcement learning environment
+└── (2024.05.--) ConvXSS: A deep learning-based smart ICT framework against code injection attacks for HTML5 web applications in sustainable smart city infrastructure
     ├── README.md
-    ├── Discovering reflected cross-site scripting vulnerabilities using a multiobjective reinforcement learning environment.pdf
-    └── [ISLAB Meeting] Discovering reflected cross-site scripting vulnerabilities using a multiobjective reinforcement learning environment.pdf
+    ├── ConvXSS: A deep learning-based smart ICT framework against code injection attacks for HTML5 web applications in sustainable smart city infrastructure.pdf
+    └── [ISLAB Meeting] ConvXSS: A deep learning-based smart ICT framework against code injection attacks for HTML5 web applications in sustainable smart city infrastructure.pdf
 
 ```
