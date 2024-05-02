@@ -12,7 +12,7 @@
 │
 ├── (2024.02.29) Securing heterogeneous embedded devices against XSS attack in intelligent IoT system 
 │   ├── README.md
-│   ├──Securing heterogeneous embedded devices against XSS attack in intelligent IoT system.pdf
+│   ├── Securing heterogeneous embedded devices against XSS attack in intelligent IoT system.pdf
 │   └── [ISLAB Meeting] Securing heterogeneous embedded devices against XSS attack in intelligent IoT system.pdf
 │
 └── (2024.05.--) ConvXSS: A deep learning-based smart ICT framework against code injection attacks for HTML5 web applications in sustainable smart city infrastructure
