@@ -20,10 +20,14 @@
 │   ├── ConvXSS: A deep learning-based smart ICT framework against code injection attacks for HTML5 web applications in sustainable smart city infrastructure.pdf
 │   └── [ISLAB Meeting] ConvXSS: A deep learning-based smart ICT framework against code injection attacks for HTML5 web applications in sustainable smart city infrastructure.pdf
 │
-└── (2024.09.05) Black-box adversarial attacks on XSS attack detection model
+├── (2024.09.05) Black-box adversarial attacks on XSS attack detection model
+│   ├── README.md
+│   ├── Black-box adversarial attacks on XSS attack detection model.pdf
+│   └── [ISLAB Meeting] Black-box adversarial attacks on XSS attack detection model.pdf
+│
+└── (2024.**.**) XSS adversarial example attacks based on deep reinforcement learning
     ├── README.md
-    ├── Black-box adversarial attacks on XSS attack detection model.pdf
-    └── [ISLAB Meeting] Black-box adversarial attacks on XSS attack detection model.pdf
-
+    ├── XSS adversarial example attacks based on deep reinforcement learning.pdf
+    └── [ISLAB Meeting] XSS adversarial example attacks based on deep reinforcement learning.pdf
 
 ```
