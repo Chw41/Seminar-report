@@ -1,4 +1,6 @@
 # Seminar-Report
+Involves reading research papers, identifying key points, and crafting slides to present and share insights with the audience. Focusing on information security, this report covers topics such as zero trust, cyber attack and machine learning, etc.
+
 ## Folders Tree
 
 ```
